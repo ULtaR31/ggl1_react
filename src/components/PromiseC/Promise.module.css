@@ -1,0 +1,19 @@
+.promises {
+    margin-top: 30px;
+}
+.promText p{
+    color: black;
+    font-size: 20px;
+    font-family: Monospaced, sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.promContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    width: 100%;
+    height: auto;
+}

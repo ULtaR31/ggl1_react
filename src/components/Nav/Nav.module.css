@@ -1,0 +1,19 @@
+.nav {
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-flow:column nowrap;
+    padding: 10px 0;
+}
+.nav>a{
+    margin: 5px;
+    text-decoration: none;
+    color: grey;
+    font-family: Monospaced, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    transition:.2s;
+}
+.nav>a:hover{
+    color:black
+}

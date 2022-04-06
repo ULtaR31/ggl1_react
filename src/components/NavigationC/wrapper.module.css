@@ -1,0 +1,23 @@
+.wrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row nowrap;
+}
+
+.leftBlock {
+    height: auto;
+    width: 15%;
+}
+
+.content {
+    height: auto;
+    width: 70%;
+}
+
+.rightBlock {
+    height: auto;
+    width: 15%;
+}
